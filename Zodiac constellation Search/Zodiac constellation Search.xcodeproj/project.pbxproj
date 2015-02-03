@@ -405,6 +405,7 @@
 				111CF4191A73ABEA00013E8A /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		111CF41A1A73ABEA00013E8A /* Build configuration list for PBXNativeTarget "Zodiac constellation SearchTests" */ = {
 			isa = XCConfigurationList;
@@ -413,6 +414,7 @@
 				111CF41C1A73ABEA00013E8A /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};

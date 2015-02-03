@@ -24,7 +24,6 @@ class ViewController: UIViewController {
         super.viewDidLoad()
         image.hidden=true
         xImage.hidden=true
-        // Do any additional setup after loading the view, typically from a nib.
     }
     
     
@@ -120,11 +119,14 @@ class ViewController: UIViewController {
             
         }
         
-        
+        UIAlertView(title: "提示", message: "查询成功", delegate: nil, cancelButtonTitle: "确定").show();
         
         
         
     }
+    //swift代码实现UIAlertView
+    
+    
     
     
 }
